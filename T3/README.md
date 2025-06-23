@@ -1,3 +1,6 @@
+# Documentacion
+
+----
 # Sistema de Gestión CMDB
 
 Sistema completo para la gestión de Elementos de Configuración (CI) conforme a ITIL.
